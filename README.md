@@ -7,5 +7,5 @@ Approaches:
 
 1. Sparse singular value decomposition
 2. Matrix Factorization via SGD without user and movie bias.
-3. Probabilistic MF with user and movie bias
+3. Probabilistic MF via ALT-OPT with user and movie bias
 
