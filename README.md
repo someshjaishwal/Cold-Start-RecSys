@@ -1,7 +1,7 @@
 # Cold-Start-RecSys
 
-Addresses cold start problem in Recommender Systems.
-Dataset Used  : Movielens-1m dataset https://grouplens.org/datasets/movielens/1m/
+Addresses cold start problem in Recommender Systems. <br>
+Dataset Used  : Movielens-1m https://grouplens.org/datasets/movielens/1m/
 
 Approaches:
 
